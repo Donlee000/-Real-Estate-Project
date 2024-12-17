@@ -11,6 +11,6 @@ Real Estate Data - The primary dataset used for this analysis is the "Best_swiss
 #### Tools
 
 - Excel - Data Cleaning [Download here](https://1drv.ms/x/c/9a514731f389d167/EV2kduroW1VHnZ1_CHvYi3EBN0QhYYHtvmuSwVZu3E5Org?e=8gLjjx)
-- SQL Server - Data Analysis
+- SQL Server - Data Analysis [Download here](https://1drv.ms/u/c/9a514731f389d167/EZb_Yfonrw1IuyEgIkgw-pgBEdc54WBpDIEonRPKWLoUbQ?e=wuUs4f)
 - Power BI - Creating reports
  
