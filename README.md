@@ -14,3 +14,19 @@ Real Estate Data - The primary dataset used for this analysis is the "Best_swiss
 - SQL Server - Data Analysis [Download here](https://1drv.ms/u/c/9a514731f389d167/EZb_Yfonrw1IuyEgIkgw-pgBEdc54WBpDIEonRPKWLoUbQ?e=wuUs4f)
 - Power BI - Creating reports  [Download here](https://1drv.ms/u/c/9a514731f389d167/EZdcRua8b_VEuY9JlyrG3MgBxalNrQAlMxd-IZgGDArdIw?e=6Z2iKg)
  
+#### Data Cleaning and Preperation 
+
+During the initial phase of preparing the data, we undertook a series of essential tasks to ensure the dataset was ready for analysis. These tasks involved several key activities, including:
+
+1. Extracting and importing data directly from a website using web scraping techniques.
+2. Addressing and managing any missing or incomplete values in the dataset to maintain its integrity and reliability.
+3. Conducting a thorough cleaning and reformatting process to standardize the data structure and improve its usability for subsequent analysis.
+
+#### Exploratory Data Analysis
+
+
+  
+	
+
+
+
