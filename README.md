@@ -35,8 +35,8 @@ The EDA involved exploring the real estate data to answer key questions, such as
 
 My SQL Server query/code
 
--- Calculate Gross Rental Yield for properties in Basel
 ```sql
+-- Calculate Gross Rental Yield for properties in Basel
 SELECT 
     Location,
     Property_Price,
@@ -54,6 +54,19 @@ FROM
     [dbo].[Swiss_real-estate_property]
 WHERE 
     Location LIKE '%Basel%';
+```
+
+``sql
+-- Calculate Gross Rental Yield for properties in Zürich
+SELECT 
+    Location,
+    Property_Price,
+    [Annual Rental Income],
+    CAST(([Annual Rental Income] * 100.0 / Property_Price) AS DECIMAL(10,2)) AS Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Zürich%';
 ```
 
 
