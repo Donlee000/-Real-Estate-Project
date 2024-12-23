@@ -180,13 +180,28 @@ FROM
 
 The analysis results are summarized as follows:
 
-1. Basel:
-Properties have a relatively stable yield.
-Overall Gross Rental Yield is 4.5%
+1. Gross Rental Yield by Location
+- Basel
+  Properties have a relatively stable yield.
+  Overall Gross Rental Yield is 4.5%.
+- Zürich
+  Higher property prices result in slightly lower yields.
+  Overall Gross Rental Yield is 3.63%.
+- Genève
+  Premium rental income offsets higher property prices.
+  Overall Gross Rental Yield is 3.58%.
+- Luzern and Bern
+  Competitive yields due to moderate property prices and steady rental income.
 
-Zürich:
-Higher property prices result in slightly lower yields.
-Overall Gross Rental Yield is 3.63%.
+2. Net Rental Yield and Overall ROI
+- Net Rental Yield across locations indicates a sustainable rental income even after deducting costs.
+- The Overall ROI incorporates a 3% annual property appreciation, providing insights into long-term investment potential. For most cities, ROI exceeds 10% over five years.
+  
+3. Capital Appreciation Potential
+- Over a 5-year period, properties in Genève and Zürich show the highest appreciation potential due to their strong market demand.
+- Estimated future property values suggest a robust 5-year growth rate of approximately 15.8% across cities.
+
+
 
 
 
