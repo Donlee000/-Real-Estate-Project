@@ -56,7 +56,7 @@ WHERE
     Location LIKE '%Basel%';
 ```
 
-``sql
+```sql
 -- Calculate Gross Rental Yield for properties in Zürich
 SELECT 
     Location,
@@ -68,6 +68,116 @@ FROM
 WHERE 
     Location LIKE '%Zürich%';
 ```
+
+```sql
+SELECT 
+    SUM([Annual Rental Income]) * 100.0 / SUM(Property_Price) AS Overall_Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Zürich%';
+    ```
+
+```sql
+-- Calculate Gross Rental Yield for properties in Genève
+SELECT 
+    Location,
+    Property_Price,
+    [Annual Rental Income],
+    CAST(([Annual Rental Income] * 100.0 / Property_Price) AS DECIMAL(10,2)) AS Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Genève%';
+```
+
+```sql
+SELECT 
+    SUM([Annual Rental Income]) * 100.0 / SUM(Property_Price) AS Overall_Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Genève%';
+```
+```sql
+-- Calculate Gross Rental Yield for properties in Luzern
+SELECT 
+    Location,
+    Property_Price,
+    [Annual Rental Income],
+    CAST(([Annual Rental Income] * 100.0 / Property_Price) AS DECIMAL(10,2)) AS Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Luzern%';
+```
+```sql
+SELECT 
+    SUM([Annual Rental Income]) * 100.0 / SUM(Property_Price) AS Overall_Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Luzern%';
+```
+
+```sql
+-- Calculate Gross Rental Yield for properties in Bern
+SELECT 
+    Location,
+    Property_Price,
+    [Annual Rental Income],
+    CAST(([Annual Rental Income] * 100.0 / Property_Price) AS DECIMAL(10,2)) AS Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Bern%';
+```
+
+```sql
+SELECT 
+    SUM([Annual Rental Income]) * 100.0 / SUM(Property_Price) AS Overall_Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Bern%';
+```
+
+```sql
+-- Calculate Net Rental Yield and Overall ROI
+SELECT 
+    Location,
+    Property_Price,
+    [Annual Rental Income],
+    ([Annual Rental Income] - (Property_Price * 0.10)) AS Net_Income,
+    CAST((([Annual Rental Income] - (Property_Price * 0.10)) * 100.0 / Property_Price) AS DECIMAL(10,2)) AS Net_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property];
+```
+
+```sql
+SELECT 
+    Location,
+    Property_Price,
+    [Annual Rental Income],
+    ([Annual Rental Income] - (Property_Price * 0.10)) AS Net_Income,
+    CAST((( [Annual Rental Income] - (Property_Price * 0.10) + (Property_Price * 0.03)) * 100.0 / Property_Price) AS DECIMAL(10,2)) AS Overall_ROI_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property];
+```
+
+```sql
+-- Calculate Estimated Future Price and Capital Appreciation Potential
+SELECT 
+    Location,
+    Property_Price,
+    CAST(Property_Price * POWER(1.03, 5) AS DECIMAL(18,2)) AS Estimated_Future_Price_5_Years,
+    CAST(((POWER(1.03, 5) - 1) * 100.0) AS DECIMAL(10,2)) AS Capital_Appreciation_Potential_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property];
+```
+
+
+
 
 
 
