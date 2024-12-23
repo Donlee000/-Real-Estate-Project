@@ -10,10 +10,11 @@
 
 
 #### Real-Estate Project Overview
-
-![Screenshot (393)](https://github.com/user-attachments/assets/9d744689-bfcd-439c-a66d-13c74c4c8fa3)
+---
 
 This data analysis project aims to deliver insights on property performance,  to determine which Swiss city—Zurich, Geneva, Lucerne, Bern, or Basel—offers the best return on investment (ROI) for purchasing properties. Using data from Homegate.ch, the analysis will evaluate property prices, rental income potential, and market dynamics to guide investors toward the most profitable locations
+
+![WhatsApp Image 2024-12-24 at 00 31 13_fe2b3011](https://github.com/user-attachments/assets/ace9a50a-5819-48bc-b278-27f0d9150ba6)
 
 #### Data Source
 
