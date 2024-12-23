@@ -201,6 +201,19 @@ The analysis results are summarized as follows:
 - Over a 5-year period, properties in Genève and Zürich show the highest appreciation potential due to their strong market demand.
 - Estimated future property values suggest a robust 5-year growth rate of approximately 15.8% across cities.
 
+  #### Recommendations
+
+Based on the analysis we recommend the following actions:
+- Focus on High-Yield Locations: Invest in Basel for stable rental returns (4.5%) and Zürich or Genève for high-growth potential and premium rental income. Luzern and Bern offer balanced, moderate-risk opportunities.
+- Capitalize on Appreciation: Prioritize properties in Genève and Zürich, which show the strongest 5-year appreciation potential (estimated 15.8% growth).
+- Optimize ROI: Target properties with net rental yields above 10% over five years and incorporate appreciation potential for long-term gains.
+- Diversify and Monitor Trends: Balance risk by diversifying investments across cities, and adapt strategies based on emerging market trends and local regulations.
+
+
+
+
+
+
 
 
 
