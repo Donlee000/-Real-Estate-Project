@@ -231,6 +231,9 @@ Additional costs (e.g., maintenance, taxes) are approximated and may vary across
 1. Newhome for Swiss Property
 2. [Homegate House Price](https://www.homegate.ch/en)
 3. [Realberg tools](https://www.realberg.ch/)
+
+😃😸🪗🧮💻
+
    
    
 
