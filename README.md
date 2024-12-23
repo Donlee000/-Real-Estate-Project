@@ -204,10 +204,16 @@ The analysis results are summarized as follows:
   #### Recommendations
 
 Based on the analysis we recommend the following actions:
-- Focus on High-Yield Locations: Invest in Basel for stable rental returns (4.5%) and Zürich or Genève for high-growth potential and premium rental income. Luzern and Bern offer balanced, moderate-risk opportunities.
-- Capitalize on Appreciation: Prioritize properties in Genève and Zürich, which show the strongest 5-year appreciation potential (estimated 15.8% growth).
-- Optimize ROI: Target properties with net rental yields above 10% over five years and incorporate appreciation potential for long-term gains.
-- Diversify and Monitor Trends: Balance risk by diversifying investments across cities, and adapt strategies based on emerging market trends and local regulations.
+1.  Focus on High-Yield Locations: Invest in Basel for stable rental returns (4.5%) and Zürich or Genève for high-growth potential and premium rental income. Luzern and Bern offer balanced, moderate-risk opportunities.
+2. Capitalize on Appreciation: Prioritize properties in Genève and Zürich, which show the strongest 5-year appreciation potential (estimated 15.8% growth).
+3. Optimize ROI: Target properties with net rental yields above 10% over five years and incorporate appreciation potential for long-term gains.
+4. Diversify and Monitor Trends: Balance risk by diversifying investments across cities, and adapt strategies based on emerging market trends and local regulations.
+
+### Limitations
+Data used in this analysis is specific to Swiss real estate and may not generalize to other markets.
+Property prices and rental yields are subject to market fluctuations, which could impact findings.
+Assumptions such as a fixed annual appreciation rate (3%) may not reflect actual future trends.
+Additional costs (e.g., maintenance, taxes) are approximated and may vary across locations.
 
 
 
