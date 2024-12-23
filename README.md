@@ -5,6 +5,7 @@
 - [Tools](#tool)
 - [Data Cleaning and Preperation](#Data-Cleaning-and-Preperation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Data Analysis](#Data-Analysis)
 
 #### Real-Estate Project Overview
 
