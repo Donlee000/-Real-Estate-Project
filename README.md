@@ -209,11 +209,19 @@ Based on the analysis we recommend the following actions:
 3. Optimize ROI: Target properties with net rental yields above 10% over five years and incorporate appreciation potential for long-term gains.
 4. Diversify and Monitor Trends: Balance risk by diversifying investments across cities, and adapt strategies based on emerging market trends and local regulations.
 
-### Limitations
+#### Limitations
 Data used in this analysis is specific to Swiss real estate and may not generalize to other markets.
 Property prices and rental yields are subject to market fluctuations, which could impact findings.
 Assumptions such as a fixed annual appreciation rate (3%) may not reflect actual future trends.
 Additional costs (e.g., maintenance, taxes) are approximated and may vary across locations.
+
+#### References
+
+1. Newhome for Swiss Property
+2. [Homegate House Price](https://www.homegate.ch/en)
+3. [Realberg tools](https://www.realberg.ch/)
+   
+   
 
 
 
