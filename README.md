@@ -176,7 +176,17 @@ FROM
     [dbo].[Swiss_real-estate_property];
 ```
 
+#### Results/Findings 
 
+The analysis results are summarized as follows:
+
+1. Basel:
+Properties have a relatively stable yield.
+Overall Gross Rental Yield is 4.5%
+
+Zürich:
+Higher property prices result in slightly lower yields.
+Overall Gross Rental Yield is 3.63%.
 
 
 
