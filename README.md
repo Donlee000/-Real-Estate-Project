@@ -47,6 +47,16 @@ FROM
 WHERE 
     Location LIKE '%Basel%';
 ```
+```sql
+SELECT
+    SUM([Annual Rental Income]) * 100.0 / SUM(Property_Price) AS Overall_Gross_Rental_Yield_Percent
+FROM 
+    [dbo].[Swiss_real-estate_property]
+WHERE 
+    Location LIKE '%Basel%';
+```
+
+
 
 
     
